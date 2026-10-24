@@ -1,6 +1,20 @@
 {
   "application": "CraftCareer",
   "projectId": "f4c0624d252e4921a786233ae827d93c",
-  "files": [],
-  "commit": null
+  "files": [
+    "config/site.js",
+    "config/sections/hi.js",
+    "index.html",
+    "css/site.css",
+    "js/layout.js",
+    "js/icons.js",
+    "ICONS-LICENSES.md",
+    "js/runtime.js",
+    "js/boot.js",
+    "README.md",
+    "craftcareer.json",
+    ".nojekyll"
+  ],
+  "commit": null,
+  "publishedAt": "2026-10-24T16:00:37.152Z"
 }
